@@ -10,8 +10,9 @@ Irrespective of my existing knowledge base, present me with a task, and I am com
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreloumello&layout=compact&theme=tokyonight" />
 </div>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+## Certifications:
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/541b8af4-5d87-4111-86dd-4a8fc4b1f4f9/public_url)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](https://www.credly.com/badges/8b4aa4bf-7363-4a97-ae0a-f47aa2f1f3f7/public_url)
 
 ## Contact me:
 <div>
