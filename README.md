@@ -10,6 +10,8 @@ Irrespective of my existing knowledge base, present me with a task, and I am com
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreloumello&layout=compact&theme=tokyonight" />
 </div>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Contact me:
 <div>
